@@ -31,4 +31,6 @@ To run the code, you need to install the following dependencies:
 - NumPy
 - Matplotlib
 
-You can install the dependencies using pip:
+## License
+
+This project is licensed under the MIT License
